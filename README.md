@@ -23,7 +23,7 @@
 	$ git log
 	
 4. 원격 저장소에 반영
-	$ git remote add origin https://github.com/../unixtest.git
+	$ git remote add origin https://github.com/../UnixAssign.git
 	$ git branch -M main
 	$ git push -u origin main
 	github ID, 토큰 입력
